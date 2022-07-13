@@ -13,5 +13,5 @@ A custom action to install applications from flathub by pressing the "install" b
        "application/vnd.flatpakref":{"action":4,"ask":true,"extensions":["flatpak"]},
    it should look like this
    
-       `..."mimeTypes":{"application/vnd.flatpakref":{"action":4,"ask":true,"extensions":["flatpak"]},...`
+       ..."mimeTypes":{"application/vnd.flatpakref":{"action":4,"ask":true,"extensions":["flatpak"]},...
 4. Go to https://flathub.org and click the "Install" button of an app you're interested in. 
