@@ -9,3 +9,4 @@ Path=
 Terminal=true
 StartupNotify=true
 Categories=Utility;System;
+NoDisplay=true
