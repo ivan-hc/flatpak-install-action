@@ -10,3 +10,4 @@ Terminal=true
 StartupNotify=true
 Categories=Utility;System;
 NoDisplay=true
+MimeType=application/vnd.flatpak.ref;
