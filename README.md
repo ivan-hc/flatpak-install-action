@@ -4,7 +4,7 @@ A custom action to install applications from flathub by pressing the "install" b
 # Setup
 1. place the *.desktop file in ~/.local/share/applications
 
-       mkdir -p ~/.local/share/applications && wget https://raw.githubusercontent.com/ivan-hc/flatpak-install-action/main/Flathub%20Install.desktop -O ~/.local/share/applications/'Flathub Install.desktop' && chmod a+x ~/.local/share/applications/'Flathub Install.desktop'
+       mkdir -p ~/.local/share/applications && wget https://raw.githubusercontent.com/ivan-hc/flatpak-install-action/main/Flathub%20Install%20Action.desktop -O ~/.local/share/applications/'Flathub Install Action.desktop' && chmod a+x ~/.local/share/applications/'Flathub Install Action.desktop'
 2. place the flatpak.png icon in ~/.local/share/icons
 
        mkdir -p ~/.local/share/icons/ && wget https://raw.githubusercontent.com/ivan-hc/flatpak-install-action/main/flatpak.svg -O ~/.local/share/icons/flatpak.svg
