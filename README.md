@@ -14,6 +14,6 @@ A custom action to install applications from flathub by pressing the "install" b
    it should look like this
    
        ..."mimeTypes":{"application/vnd.flatpakref":{"action":4,"ask":true,"extensions":["flatpak"]},...
-4. Right-click on the downloaded .flatpakref file (only the first time) to enable Flatpak Install Action as the default app for this extension.       
+4. Go to https://flathub.org and click the "Install" button of an app you're interested in and select "Flathub Install Action" to open the file into a Terminal's window. If this does not work, right-click on the downloaded .flatpakref file (only the first time) to enable Flatpak Install Action as the default app for this extension. Next time the Terminal's window will be opened automatically when you press "Install" from Flathub in Firefox.
 
-5. Go to https://flathub.org and click the "Install" button of an app you're interested in and select "Flathub Install Action" to open the file into a Terminal's window. The terminal will be automatically closed at the end of the installation or if you choose "n" to abort the installation.
+The terminal will be automatically closed at the end of the installation or if you choose "n" to abort the installation.
